@@ -1,7 +1,7 @@
 # Arkham Horror LCG: Return to Consternation on the Constellation
 
 ### What?
-[Return to Consternation on the Constellation](#) is a 'fan-brew' scenario pack designed by the [Arkham.cards](https://patreon.com/arkhamdotcards) team to be compatible with [Arkham Horror: The Card Game](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/) by [Fantasy Flight Games](https://www.fantasyflightgames.com/). It is a 'rework/fork/relocalization/remake' of another popular 'fan-brew' scenario called Consternation on the Constellation, originally designed by hosts of the Mythos Busters podcasts for GenCon 2019.
+[Return to Consternation on the Constellation](#) is a 'fan-brew' scenario pack designed by the [Arkham.cards](https://patreon.com/arkhamdotcards) team to be compatible with [Arkham Horror: The Card Game](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/) by [Fantasy Flight Games](https://www.fantasyflightgames.com/). It is an open source 'rework/fork/remaster/remake' of another popular 'fan-brew' scenario called Consternation on the Constellation, originally designed by hosts of the Mythos Busters podcasts for GenCon 2019.
 
 ![](https://github.com/ArkhamDotCards/returntoconsternationontheconstellation/blob/main/product/enUS/constellation-boxart.png?raw=true)
 
