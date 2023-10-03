@@ -17,7 +17,7 @@ Return to Consternation on the Constellation v1.0 was released on 10/XX/2023.
 
 You can obtain the latest version of Return to the Wendigo in any of the following ways:
 
-* Subscribing to the [Steam Workshop module](#) for [Tabletop Simulator](https://www.tabletopsimulator.com/) on [Steam](https://store.steampowered.com/).
+* Subscribing to the [Steam Workshop module](https://steamcommunity.com/sharedfiles/filedetails/?id=3044865621) for [Tabletop Simulator](https://www.tabletopsimulator.com/) on [Steam](https://store.steampowered.com/).
 * Downloading the latest json and pdf objects from the [releases](https://github.com/ArkhamDotCards/returntoconsternationontheconstellation/releases) page here on [Github](https://github.com/ArkhamDotCards/returntoconsternationontheconstellation) (useful for importing into SCE).
 * Ordering 'Print-on-Demand' physical copies of the [Scenario Pack](https://go.arkham.cards/constellation-scenario) from [MakePlayingCards.com](https://makeplayingcards.com). *(Note: We are not involved in either payment for or fufillment of these items; we make no money off physical sales and only offer 'pre-configured' packages from a third-party printer for you to order for your convenience.)*
 * Printing your own DIY Print-and-Play/Print-on-Demand copies of the card scans using the source .png files available in [this repo](https://github.com/ArkhamDotCards/returntoconsternationontheconstellation/tree/main/img/enUS). You can also download the entire repository in one giant zip file [here](https://github.com/ArkhamDotCards/returntoconsternationontheconstellation/archive/refs/heads/main.zip).
