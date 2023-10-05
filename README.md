@@ -11,7 +11,7 @@ The Return to Consternation on the Constellation scenario pack contains one cust
 The original version of Consternation on the Constellation was a very well designed scenario, that we thought suffered from a few small issues that could easily be polished up by a third-party to make it more appealing to a wider range of players. In celebration of The Ghosts of Onigawa's one-year anniverary we thought it would be appropriate to spotlight another fan-brew creator's work that we have enjoyed (and give it a fresh coat of paint in the process.)
 
 ### When?
-Return to Consternation on the Constellation v1.0 was released on 10/XX/2023.
+Return to Consternation on the Constellation v1.0 was released on 10/04/2023.
 
 ### Where?
 
